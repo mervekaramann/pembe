@@ -4,6 +4,9 @@ class Main {
 
         System.out.println("BACICORE");
         System.out.println("bacılarımmm <3");
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<3");
+
+
 
     }
 }
