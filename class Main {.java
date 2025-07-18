@@ -4,5 +4,6 @@ class Main {
         System.out.println("bacılarımmm <3");
         System.out.println("BACICORE ıs eşşek");
         System.out.println("neden olmuyor?");
+        
     }
 }
